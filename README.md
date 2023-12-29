@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViktorAgejev
-- 👀 I’m interested in well... programming.
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in, well... programming.
+- 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ISNT IT OBVIOUS ITS PROGRAMMING
 - 📫 How to reach me : email me on gnjilabanana@gmail.com
 
